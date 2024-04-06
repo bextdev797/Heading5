@@ -1,3 +1,3 @@
 ## Heading5
 
-An App Inventor 2 extension created using Rush.
+<a href="https://github.com/bextdev797/Heading5/raw/main/out/com.brandonang.heading5.aix">Download Heading5 Extension</a>
